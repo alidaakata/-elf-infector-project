@@ -1,5 +1,5 @@
 
-# README : Exploit (buffer-overflow) et ELF Infector
+Exploit (buffer-overflow) et ELF Infector
 
 ## 1. Introduction
 
@@ -179,7 +179,16 @@ Ce projet démontre comment exploiter une vulnérabilité de buffer overflow dan
 
 ### Fichiers fournis :
 
-- **`vuln.c`** : Code source vulnérable.
-- **`vuln64`**
+- **`vuln.c`** **`vuln64`**: Code source vulnérable.
+  
+![elf2](https://github.com/user-attachments/assets/a65bc7ee-7280-4565-88e6-b80ad6dc5cba)
+
 - **`exploit.py`** : Script pour exploiter le buffer overflow.
+
+![elf2](https://github.com/user-attachments/assets/26178a43-eb06-4640-b551-6398af7b36cb)
+
 - **`infector.py`** : Script pour injecter le payload et maintenir la persistance.
+  
+![elf3](https://github.com/user-attachments/assets/bf215f2d-2208-432b-a5ed-a45944386fcb)
+
+  
